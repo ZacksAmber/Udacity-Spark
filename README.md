@@ -4,7 +4,7 @@ This lab is from [Udacity Spark by INSIGHT](https://www.udacity.com/course/learn
 
 Fork this repository or download [Original Files](https://github.com/ZacksAmber/Udacity-Spark/raw/main/original_files.tar.gz) to run your code.
 
-The directory [Spark](./Spark) is my personal labs.
+The directory [Spark](./Spark) is my personal lab.
 
 ---
 
