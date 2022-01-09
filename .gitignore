@@ -130,3 +130,6 @@ dmypy.json
 
 # Other repo
 nd027-c3-data-lakes-with-spark/
+
+# Private Key
+*.pem
