@@ -133,3 +133,6 @@ nd027-c3-data-lakes-with-spark/
 
 # Private Key
 *.pem
+
+# Uncompressed data
+*.json
