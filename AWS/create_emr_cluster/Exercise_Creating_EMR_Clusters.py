@@ -39,7 +39,7 @@ aws emr create-cluster \
 --applications Name=Hadoop Name=Spark Name=Livy Name=JupyterEnterpriseGateway \
 --use-default-roles \
 --instance-groups InstanceGroupType=MASTER,InstanceCount=1,InstanceType=m5.xlarge InstanceGroupType=CORE,InstanceCount=2,InstanceType=m5.xlarge \
---ec2-attributes "KeyName={YOUR_KEY_NAME}, SubnetId={YOUR_SUBNET_ID}" \
+--ec2-attributes KeyName={YOUR_KEY_NAME},SubnetId={YOUR_SUBNET_ID} \
 --bootstrap-actions Path={YOUR_BOOTSTRAP_FILENAME} \
 """
 
