@@ -22,7 +22,7 @@
 
 ---
 
-### [7 K Means Quiz](./7_k_means_quiz.ipynb)
+### [7 K-means Quiz](./7_k_means_quiz.ipynb)
 
 ---
 
