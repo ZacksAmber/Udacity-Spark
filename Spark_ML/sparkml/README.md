@@ -28,9 +28,13 @@
 
 ### [9 Model Tuning Quiz](./9_model_tuning_quiz.ipynb)
 
+Parameter Grid and Cross-validation.
+
 ---
 
-### [Ml With Spark](./ml_with_spark.ipynb)
+### [ML With Spark](./ml_with_spark.ipynb)
+
+Common PySpark ML code.
 
 ---
 
